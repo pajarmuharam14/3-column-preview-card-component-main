@@ -23,8 +23,7 @@ Users should be able to:
 ![](./images/ss-mode-mobile-2.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://column-preview-card-project.netlify.app/)
-
+- Live Site URL: https://column-preview-card-project.netlify.app/
 ## My process
 
 ### Built with
